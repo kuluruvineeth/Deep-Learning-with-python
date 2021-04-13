@@ -6,3 +6,8 @@
    * Compile Model
    * Fit Model
    * Evaluate Model
+
+## 2. Evaluating performance of DL models
+   * Using Automatic Verification dataset
+   * Using Manual Verification dataset 
+   * Using k-fold cross validation
