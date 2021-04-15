@@ -15,6 +15,6 @@
    * Using Manual Verification dataset 
    * Using k-fold cross validation
    
-## 3. [Using Keras with Sklearn for General Machine Learning]()
+## 3. [Using Keras with Sklearn for General Machine Learning](https://github.com/kuluruvineeth/Deep-Learning-with-python/blob/main/Using%20Keras%20Models%20with%20Scikit-Learn%20for%20General%20ML.ipynb)
    * Evaluate Models with Cross Validation
    * Grid Search Deep Learning Parameters  
