@@ -25,3 +25,8 @@
    * Tuning The Neural Network Topology
       * Evaluating a Deeper Network Topology
       * Evaluating a Wider Network Topology 
+
+## 5. [Saving Models with Serialization]()
+   * Saving and Loading Keras model weights to **HDF5** formatted files
+   * Saving and Loading Keras model structure to **JSON** files
+   * Saving and Loading Keras model structure to **YAML** files 
