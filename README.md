@@ -14,3 +14,7 @@
    * Using Automatic Verification dataset
    * Using Manual Verification dataset 
    * Using k-fold cross validation
+   
+## 3. [Using Keras with Sklearn for General Machine Learning]()
+   * Evaluate Models with Cross Validation
+   * Grid Search Deep Learning Parameters  
