@@ -26,7 +26,7 @@
       * Evaluating a Deeper Network Topology
       * Evaluating a Wider Network Topology 
 
-## 5. [Saving Models with Serialization]()
+## 5. [Saving Models with Serialization](https://github.com/kuluruvineeth/Deep-Learning-with-python/blob/main/Saving%20DL%20Models%20with%20Serialization.ipynb)
    * Saving and Loading Keras model weights to **HDF5** formatted files
    * Saving and Loading Keras model structure to **JSON** files
    * Saving and Loading Keras model structure to **YAML** files 
