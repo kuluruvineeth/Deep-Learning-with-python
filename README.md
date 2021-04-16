@@ -45,3 +45,7 @@
 ## 8. [Reducing Overfitting with Dropout Regularization](https://github.com/kuluruvineeth/Deep-Learning-with-python/blob/main/Reduce%20Overfitting%20With%20Dropout%20Regularization.ipynb)
    * Using a Dropout on Visible Layer
    * Using a Dropout on Hidden Layers
+
+## 9. [Learning Rate Schedules for training neural network model](https://github.com/kuluruvineeth/Deep-Learning-with-python/blob/main/Lift%20Performance%20with%20Learning%20Rate%20Schedules.ipynb)
+   * Time-Based Learning Rate Schedule
+   * Drop-Based Learning Rate Schedule
