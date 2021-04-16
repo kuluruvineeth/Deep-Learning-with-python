@@ -29,4 +29,9 @@
 ## 5. [Saving Models with Serialization](https://github.com/kuluruvineeth/Deep-Learning-with-python/blob/main/Saving%20DL%20Models%20with%20Serialization.ipynb)
    * Saving and Loading Keras model weights to **HDF5** formatted files
    * Saving and Loading Keras model structure to **JSON** files
-   * Saving and Loading Keras model structure to **YAML** files 
+   * Saving and Loading Keras model structure to **YAML** files
+
+## 6. [Checkpointing Neural Network Models](https://github.com/kuluruvineeth/Deep-Learning-with-python/blob/main/Checkpointing%20Neural%20Network%20Models.ipynb)
+   * Checkpointing Neural Network Model Improvements
+   * Checkpointing Best Neural Network Model Only
+   * Loading a Saved Neural Network Model 
