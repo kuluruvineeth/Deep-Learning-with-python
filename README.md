@@ -35,3 +35,9 @@
    * Checkpointing Neural Network Model Improvements
    * Checkpointing Best Neural Network Model Only
    * Loading a Saved Neural Network Model 
+
+## 7. [Understanding Model Behaviour By Plotting History]()
+   * A plot of accuracy on the training and validation datasets over training epochs
+   ![accuracy]()
+   * A plot of loss on the training and validation datasets over training epochs
+   ![loss]()
