@@ -36,8 +36,8 @@
    * Checkpointing Best Neural Network Model Only
    * Loading a Saved Neural Network Model 
 
-## 7. [Understanding Model Behaviour By Plotting History]()
+## 7. [Understanding Model Behaviour By Plotting History](https://github.com/kuluruvineeth/Deep-Learning-with-python/blob/main/Understand%20Model%20Behavior%20During%20Training%20by%20Plotting%20History.ipynb)
    * A plot of accuracy on the training and validation datasets over training epochs
-   ![accuracy]()
+   ![accuracy](https://github.com/kuluruvineeth/Deep-Learning-with-python/blob/main/accuracy.png)
    * A plot of loss on the training and validation datasets over training epochs
-   ![loss]()
+   ![loss](https://github.com/kuluruvineeth/Deep-Learning-with-python/blob/main/loss.png)
