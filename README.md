@@ -41,3 +41,7 @@
    ![accuracy](https://github.com/kuluruvineeth/Deep-Learning-with-python/blob/main/accuracy.png)
    * A plot of loss on the training and validation datasets over training epochs
    ![loss](https://github.com/kuluruvineeth/Deep-Learning-with-python/blob/main/loss.png)
+   
+## 8. [Reducing Overfitting with Dropout Regularization]()
+   * Using a Dropout on Visible Layer
+   * Using a Dropout on Hidden Layers
