@@ -49,3 +49,10 @@
 ## 9. [Learning Rate Schedules for training neural network model](https://github.com/kuluruvineeth/Deep-Learning-with-python/blob/main/Lift%20Performance%20with%20Learning%20Rate%20Schedules.ipynb)
    * Time-Based Learning Rate Schedule
    * Drop-Based Learning Rate Schedule
+
+## 10. [Image Augmentation for improving model performance]()
+   * Feature-wise standardization.
+   * ZCA whitening.
+   * Random rotation,shifts,shear and flips.
+   * Dimension reordering.
+   * Save augmented images to disk.
