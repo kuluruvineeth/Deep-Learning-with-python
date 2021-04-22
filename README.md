@@ -50,7 +50,7 @@
    * Time-Based Learning Rate Schedule
    * Drop-Based Learning Rate Schedule
 
-## 10. [Image Augmentation for improving model performance]()
+## 10. [Image Augmentation for improving model performance](https://github.com/kuluruvineeth/Deep-Learning-with-python/blob/main/Image%20Augmentation%20Improving%20Model%20Performance.ipynb)
    * Feature-wise standardization.
    * ZCA whitening.
    * Random rotation,shifts,shear and flips.
